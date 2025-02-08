@@ -1,5 +1,5 @@
-### I'm @Niel-Reitmann, Product Manager Intern @ Atlassian 👋
+### I'm @Niel-Reitmann 👋
 
 - 🔭 Comp Sci @ UNSW
-- ⚡ ex-Growth & Product @ Startmate
+- ⚡ Ex Product @ Startmate & Atlassian
 - 🌱 HTML, CSS, JavaScript, NextJS, SQL, Python, C & Shopify stack 
