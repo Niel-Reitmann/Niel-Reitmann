@@ -1,5 +1,5 @@
 ### I'm @Niel-Reitmann 👋
 
-- 🔭 Comp Sci @ UNSW
+- 🔭 Computer science @ UNSW
 - ⚡ Ex Product @ Startmate & Atlassian
-- 🌱 HTML, CSS, JavaScript, NextJS, SQL, Python, C
+- 🌱 HTML, CSS, TypeScript, NextJS, SQL, Python, C
